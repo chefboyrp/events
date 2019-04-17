@@ -23,7 +23,8 @@ document.addEventListener('DOMContentLoaded', function(){
         }
 
 
-        console.log(clickCount)
+        console.log(clickCount) 
+        
 
  
     })
